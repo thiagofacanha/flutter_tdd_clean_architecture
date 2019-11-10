@@ -18,7 +18,7 @@ dependencies:
   #value equality
   equatable: ^0.4.0
 
-  #dartz
+  #dartz Functional Programming
   dartz: ^0.8.6
 
   #remote api
